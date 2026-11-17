@@ -1,0 +1,5 @@
+import { SetMetadata } from '@nestjs/common';
+
+export const IS_PUBLIC_KEY = 'isPublic';
+/** Marks a route as open to the public site (no JWT needed). */
+export const Public = () => SetMetadata(IS_PUBLIC_KEY, true);
