@@ -126,9 +126,6 @@ export function Footer({ settings }: { settings?: SiteSettings }) {
             <Link href="/contact" className="transition hover:text-slate-300">
               Contact
             </Link>
-            <Link href="/admin" className="transition hover:text-slate-300">
-              Admin
-            </Link>
           </div>
         </div>
       </div>

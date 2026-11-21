@@ -72,9 +72,6 @@ export function Navbar({ brandName }: { brandName?: string }) {
         </div>
 
         <div className="hidden items-center gap-3 lg:flex">
-          <Button href="/admin" variant="ghost" size="sm">
-            Admin
-          </Button>
           <Button href="/contact" size="sm" withArrow>
             Get a quote
           </Button>
@@ -103,12 +100,6 @@ export function Navbar({ brandName }: { brandName?: string }) {
                 {item.label}
               </Link>
             ))}
-            <Link
-              href="/admin"
-              className="rounded-xl px-4 py-3 text-base text-slate-400 hover:bg-white/5 hover:text-white"
-            >
-              Admin panel
-            </Link>
             <Button href="/contact" className="mt-3 w-full" size="lg" withArrow>
               Get a quote
             </Button>
