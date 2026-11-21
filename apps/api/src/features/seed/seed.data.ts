@@ -775,10 +775,10 @@ export const JOBS_SEED = [
 ];
 
 export const SETTINGS_SEED = {
-  brandName: 'Novacraft Digital',
+  brandName: 'WhiteCodel',
   tagline: 'Your in-house tech and growth team, on demand.',
   contact: {
-    email: 'hello@novacraft.dev',
+    email: 'hello@whitecodel.dev',
     phone: '+91 98765 43210',
     whatsapp: '+919876543210',
     address: 'Jaipur, Rajasthan, India',
@@ -806,7 +806,7 @@ export const SETTINGS_SEED = {
     secondaryCta: 'See our work',
   },
   seo: {
-    title: 'Novacraft Digital — App, Web, AI & Digital Marketing Agency',
+    title: 'WhiteCodel — App, Web, AI & Digital Marketing Agency',
     description:
       'Full-service IT and growth partner: mobile and web app development, custom software, AI automation, UI/UX, SEO, Google and Meta ads, video editing and branding.',
     keywords: [

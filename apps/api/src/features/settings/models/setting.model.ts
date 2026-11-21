@@ -7,7 +7,7 @@ export class Setting extends Document {
   @Prop({ default: 'singleton', unique: true })
   key: string;
 
-  @Prop({ default: 'Novacraft Digital' })
+  @Prop({ default: 'WhiteCodel' })
   brandName: string;
 
   @Prop({ default: 'Your in-house tech and growth team, on demand.' })

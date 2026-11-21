@@ -1,5 +1,5 @@
 /**
- * Novacraft Digital API — single bootstrap entry point.
+ * WhiteCodel API — single bootstrap entry point.
  * Everything else is wired through feature modules (see features/*).
  */
 import 'reflect-metadata';

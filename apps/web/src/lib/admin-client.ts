@@ -2,8 +2,8 @@
 
 import { API_URL } from './api';
 
-const TOKEN_KEY = 'novacraft.admin.token';
-const USER_KEY = 'novacraft.admin.user';
+const TOKEN_KEY = 'whitecodel.admin.token';
+const USER_KEY = 'whitecodel.admin.user';
 
 export interface AdminUser {
   id: string;

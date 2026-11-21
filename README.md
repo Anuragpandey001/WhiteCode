@@ -1,4 +1,4 @@
-# Novacraft Digital — agency website, admin panel & API
+# WhiteCodel — agency website, admin panel & API
 
 A complete platform for an IT & growth services company: a redesigned public
 marketing site, a full admin panel to run it, and a feature-based NestJS API
@@ -161,7 +161,7 @@ curl http://localhost:4001/api/v1/dashboard/health
 ```
 
 ```bash
-curl -X POST http://localhost:4001/api/v1/auth/login -H "Content-Type: application/json" -d "{\"email\":\"admin@novacraft.dev\",\"password\":\"Admin@12345\"}"
+curl -X POST http://localhost:4001/api/v1/auth/login -H "Content-Type: application/json" -d "{\"email\":\"admin@whitecodel.dev\",\"password\":\"Admin@12345\"}"
 ```
 
 ---

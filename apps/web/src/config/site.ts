@@ -3,15 +3,15 @@
  * Anything the admin panel can edit (Settings) overrides these at runtime.
  */
 export const siteConfig = {
-  name: 'Novacraft Digital',
-  shortName: 'Novacraft',
-  legalName: 'Novacraft Digital Studio',
+  name: 'WhiteCodel',
+  shortName: 'WhiteCodel',
+  legalName: 'WhiteCodel Studio',
   tagline: 'Your in-house tech and growth team, on demand.',
   description:
     'Full-service IT and growth partner: mobile and web app development, custom software, AI automation, UI/UX design, SEO, Google and Meta ads, video editing and branding.',
   url: process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000',
   contact: {
-    email: 'hello@novacraft.dev',
+    email: 'hello@whitecodel.dev',
     phone: '+91 98765 43210',
     whatsapp: '919876543210',
     address: 'Jaipur, Rajasthan, India',

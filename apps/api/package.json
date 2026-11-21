@@ -2,7 +2,7 @@
   "name": "api",
   "version": "1.0.0",
   "private": true,
-  "description": "Novacraft Digital API - NestJS, feature-based",
+  "description": "WhiteCodel API - NestJS, feature-based",
   "engines": {
     "node": ">=20.0.0"
   },

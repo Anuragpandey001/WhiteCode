@@ -69,7 +69,7 @@ export default function AdminLoginPage() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 className={adminInput}
-                placeholder="admin@novacraft.dev"
+                placeholder="admin@whitecodel.dev"
               />
             </div>
             <div>

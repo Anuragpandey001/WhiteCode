@@ -748,10 +748,10 @@ export const fallbackJobs: Job[] = [
 ];
 
 export const fallbackSettings: SiteSettings = {
-  brandName: 'Novacraft Digital',
+  brandName: 'WhiteCodel',
   tagline: 'Your in-house tech and growth team, on demand.',
   contact: {
-    email: 'hello@novacraft.dev',
+    email: 'hello@whitecodel.dev',
     phone: '+91 98765 43210',
     whatsapp: '919876543210',
     address: 'Jaipur, Rajasthan, India',

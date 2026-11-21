@@ -139,7 +139,7 @@ export default function AdminSettingsPage() {
         <AdminCard>
           <h2 className="text-sm font-semibold text-white">Brand</h2>
           <div className="mt-4 space-y-4">
-            {text('Brand name', 'brandName', settings.brandName, 'Novacraft Digital')}
+            {text('Brand name', 'brandName', settings.brandName, 'WhiteCodel')}
             {text('Tagline', 'tagline', settings.tagline)}
             <div>
               <label className="mb-1.5 block text-xs font-medium text-slate-400">
